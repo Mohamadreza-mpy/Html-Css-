@@ -1,0 +1,39 @@
+
+#navar .logo{
+    float: none;
+    text-align: center;
+}
+#navar{
+    height: 240px;
+    text-align: center;
+}
+#navar ul li {
+    float: none;
+    display: block;
+}
+#navar ul {
+    float: none;
+    text-align: center;
+    
+}
+#navar li{
+    border-bottom:1px solid white;
+
+}
+
+/* ==========project=========== */
+
+
+.secdiv1{
+    width: 100%;
+    float: none;
+    opacity: 1;
+}
+.secdiv2{
+    width: 100%;
+    float:none;
+}
+#fotdiv{
+    float: none;
+
+}
